@@ -1,0 +1,1 @@
+export const Database = 'http://localhost/Reb-code/React-get-start/my-app/src/Database/';
